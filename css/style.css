@@ -1,0 +1,63 @@
+
+*{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+/* frist page style */
+
+.banner{
+    background-image: url(../images/banner3.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+    color: white;
+    height: 700px;
+    margin: 0;
+    padding: 0;
+}
+
+.banner-item{
+    padding-left: 300px;
+    margin-left: 300px;
+}
+.banner-title{
+    padding: 20px;
+    margin: 20px;
+    font-size: 45px;
+}
+.banner-title p{
+    font-size: 20px;
+    margin: 20px;
+    padding: 15px;
+}
+.btn-primary{
+   background-color: white;
+   color: blue;
+   border-radius: 10px;
+   border: none;
+   height: 30px;
+   width: 80px;
+
+}
+.failure-item{
+    display: flex;
+}
+.failure-blog{
+    padding-top: 200px;
+    margin: 40px;
+}
+.failure-blog h2{
+    font-size: 40px;
+}
+.failure-blog p{
+    font-size: 15px;
+    padding: 20px;
+    line-height: 20px;
+}
+.failure-list li{
+    text-decoration: none;
+}
+.plans-title{
+    font-size: 45px;
+    padding-left: 600px;
+}
